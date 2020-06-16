@@ -1,0 +1,9 @@
+.vscode
+log
+*.log
+scraper/__pycache__
+scraper/cookies.txt
+scraper/*.log
+lynda
+log
+signed_url
